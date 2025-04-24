@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Automated Attendance Management System<br>👯 I’m looking to collaborate on Open-source projects in web projects , competitive programming challenges<br>🤝 I’m looking for help with Advanced Backend Applications and Computer Vision for my senior project<br>🌱 I’m currently learning Advanced Backend Applications and Computer Vision for my senior project<br>💬 Ask me about C++ , Java, Java Spring Boot , Competitive Programming ,Web Applications, Laravel<br>⚡ Fun fact  Simplicity is the soul of efficiency
+🔭 I’m currently working on Automated Attendance Management System<br>👯 I’m looking to collaborate on Open-source projects in web projects , competitive programming challenges<br>🤝 I’m looking for help with Advanced Backend Applications and Computer Vision for my senior project<br>🌱 I’m currently learning Advanced Backend Applications and Computer Vision for my senior project<br>💬 Ask me about C++ , Java, Java Spring Boot , Competitive Programming ,Web Applications, Laravel<br>⚡ Simplicity is the soul of efficiency
 
 
 ## 🌐 Socials:
