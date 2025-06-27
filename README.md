@@ -1,12 +1,12 @@
 # 💫 About Me:
-👋 Hello, I’m Chafic Achour
-💼 I’m currently interning at IBC Solutions as a Software Engineer (3-month duration)
-🛠️ My current stack is Angular + Java (Spring Boot)
-🚀 Contributing to Finastra’s Fusion Corporate Channels (FCC) digital banking platform, delivering scalable and secure banking solutions for clients across the Middle East
-🔧 Working with a full-stack team to implement new features, resolve issues, and enhance user experience using Angular TypeScript and Java - Spring Boot
-🤝 Collaborating directly with clients to gather requirements, ensure smooth integration, and provide ongoing technical support aligned with business needs
-💬 Ask me about my Domain, Competitive Programming, Web applications and Career Guidance
-⚡ Simplicity is the soul of efficiency
+👋 Hello, I’m Chafic Achour <br>
+💼 I’m currently interning at IBC Solutions as a Software Engineer (3-month duration) <br>
+🛠️ My current stack is Angular + Java (Spring Boot) <br>
+🚀 Contributing to Finastra’s Fusion Corporate Channels (FCC) digital banking platform, delivering scalable and secure banking solutions for clients across the Middle East <br>
+🔧 Working with a full-stack team to implement new features, resolve issues, and enhance user experience using Angular TypeScript and Java - Spring Boot <br>
+🤝 Collaborating directly with clients to gather requirements, ensure smooth integration, and provide ongoing technical support aligned with business needs <br>
+💬 Ask me about my Domain, Competitive Programming, Web applications and Career Guidance <br>
+⚡ Simplicity is the soul of efficiency <br>
 
 
 
