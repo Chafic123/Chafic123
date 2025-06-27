@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Automated Attendance Management System<br>👯 I’m looking to collaborate on Open-source projects in web projects , competitive programming challenges<br>🤝 I’m looking for help with Advanced Backend Applications and Computer Vision for my senior project<br>🌱 I’m currently learning Advanced Backend Applications and Computer Vision for my senior project<br>💬 Ask me about C++ , Java, Java Spring Boot , Competitive Programming ,Web Applications, Laravel<br>⚡ Simplicity is the soul of efficiency
+👋 Hello, I’m Chafic Achour
+💼 I’m currently interning at IBC Solutions as a Software Engineer (3-month duration)
+🛠️ My current stack is Angular + Java (Spring Boot)
+🚀 Contributing to Finastra’s Fusion Corporate Channels (FCC) digital banking platform, delivering scalable and secure banking solutions for clients across the Middle East
+🔧 Working with a full-stack team to implement new features, resolve issues, and enhance user experience using Angular TypeScript and Java - Spring Boot
+🤝 Collaborating directly with clients to gather requirements, ensure smooth integration, and provide ongoing technical support aligned with business needs
+💬 Ask me about my Domain, Competitive Programming, Web applications and Career Guidance
+⚡ Simplicity is the soul of efficiency
+
 
 
 ## 🌐 Socials:
