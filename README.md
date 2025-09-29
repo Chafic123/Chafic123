@@ -1,12 +1,9 @@
 💫 **About Me** <br>
 👋 Hi, I’m **Chafic Achour** — a **Computer Science Graduate (May 2025)** with a clear career path focused on becoming a **Backend Engineer**. <br><br>
 
-💡 I’m a **hardworking learner**, always curious and eager to explore new technologies. For me, 🌍 technology is a world in constant evolution — from the latest software tools ⚙️ to emerging frameworks 🚀, I believe in staying up to date and growing with the field. <br><br>
+💡 **hardworking Person**, Hard working person, always in touch with the new technology, and eager to learn something new. For me, the world of technology is in constant evolution, and we should always staying up to date, from the latest software tools to emerging developments on the horizon. <br><br>
 
-🔥 What motivates me the most is **learning new things**: <br>
-- From frameworks 🛠️ <br>
-- To building **value-driven solutions** 💎 <br>
-- And diving deep into backend systems 🖥️ <br><br>
+🔥 What motivates the most is learning new things, from frameworks to understanding value-driven solutions and always ready to explore the depths of backend systems.
 
 ✨ I don’t just see myself as a **developer**, but as someone striving to contribute to **something novel** in tech. <br><br>
 
@@ -21,18 +18,21 @@
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chafic123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
