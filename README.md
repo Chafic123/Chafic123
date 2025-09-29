@@ -1,9 +1,18 @@
-# 💫 About Me:
-I am Chafic Achour, a Computer Science graduate (May 2025) with a clear career path focused on becoming a Backend Engineer.👋 <br>
-Hard working person, always in touch with the new technology, and eager to learn something new. For me, the world of technology is in constant evolution, and we should always staying up to date, from the latest software tools to emerging developments on the horizon.
-What motivates the most is learning new things, from frameworks to understanding value-driven solutions and always ready to explore the depths of backend systems. <br>
-I see my role not only as a software developer but as someone who hopes to contribute to something novel in the world.<br>
-Every challenge in life is an opportunity, and every problem becomes a chance to grow and improve. The path is just beginning, and I look forward to what the future holds.
+💫 **About Me** <br>
+👋 Hi, I’m **Chafic Achour** — a **Computer Science Graduate (May 2025)** with a clear career path focused on becoming a **Backend Engineer**. <br><br>
+
+💡 I’m a **hardworking learner**, always curious and eager to explore new technologies. For me, 🌍 technology is a world in constant evolution — from the latest software tools ⚙️ to emerging frameworks 🚀, I believe in staying up to date and growing with the field. <br><br>
+
+🔥 What motivates me the most is **learning new things**: <br>
+- From frameworks 🛠️ <br>
+- To building **value-driven solutions** 💎 <br>
+- And diving deep into backend systems 🖥️ <br><br>
+
+✨ I don’t just see myself as a **developer**, but as someone striving to contribute to **something novel** in tech. <br><br>
+
+💪 Every challenge = an **opportunity**, and every problem = a **chance to grow**. <br>
+🌟 The journey is just beginning, and I’m excited to see where the future takes me. <br>
+
 
 
 ## 🌐 Socials:
